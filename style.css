@@ -11,7 +11,11 @@ h1 {
     font-size: 50px;
 }
 
-section {
+h2 {
+    font-size: 40px;
+}
+
+.flexible-container {
     display: flex;
     margin-bottom: 100px;
 }
@@ -49,4 +53,12 @@ section {
 
 .dream-big-half {
     padding-right: 10%;
+}
+
+.expreance-item {
+    width: 40%;
+    margin-left: 5%;
+
+    padding-left: 2%;
+    box-shadow: 10px 10px 40px gray;
 }
